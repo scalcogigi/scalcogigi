@@ -16,12 +16,14 @@
 ![React](https://img.shields.io/badge/-React-C8A2C8?style=for-the-badge&logo=react&logoColor=000)
 ![HTML5](https://img.shields.io/badge/-HTML5-C8A2C8?style=for-the-badge&logo=html5&logoColor=000)
 ![CSS3](https://img.shields.io/badge/-CSS3-C8A2C8?style=for-the-badge&logo=css3&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-C8A2C8?style=for-the-badge&logo=node.js&logoColor=000)
 
 ### 🗄️ Bancos de Dados
 ![SQL](https://img.shields.io/badge/-SQL-C8A2C8?style=for-the-badge&logo=postgresql&logoColor=000)
 
 ### 📊 Ciência de Dados
 ![R](https://img.shields.io/badge/-R-C8A2C8?style=for-the-badge&logo=r&logoColor=000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-C8A2C8?style=for-the-badge&logo=mongodb&logoColor=000)
 
 ### ☕ Outras Linguagens
 ![Java](https://img.shields.io/badge/-Java-C8A2C8?style=for-the-badge&logo=java&logoColor=000)

@@ -1,10 +1,8 @@
-# Olá, eu sou a Giovanna!
+# Hi, I'm Giovanna!
 
-🎓 Estudante de ciência da computação apaixonada por tecnologia e ciência de dados  
-💻 Experiência com desenvolvimento web, análise de dados e programação de baixo nível  
-🌱 Sempre aprendendo novas ferramentas e linguagens  
-
----
+🎓 Computer Science student passionate about technology and data science  
+💻 Experience with web development, data analysis, and low-level programming  
+🌱 Always learning new tools and programming languages  
 
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-C8A2C8?style=for-the-badge&logo=python&logoColor=000)
@@ -17,6 +15,6 @@
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to reach me
 - Email: [giovannabarrosscalco@gmail.com](mailto:giovannabarrosscalco@gmail.com)  
 - LinkedIn: [https://www.linkedin.com/in/giovanna-scalco-945bab256](https://www.linkedin.com/in/giovanna-scalco-945bab256) 

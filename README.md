@@ -20,5 +20,4 @@ My projects include a web tool for teaching Assembly, data analysis, AI and robo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ·
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) ·
 
-[[LinkedIn](https://www.linkedin.com/in/giovanna-scalco-945bab256)] · [
-giovannabarrosscalco@gmail.com]
+[[LinkedIn](https://www.linkedin.com/in/giovanna-scalco-945bab256)] · [giovannabarrosscalco@gmail.com]

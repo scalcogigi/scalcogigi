@@ -4,7 +4,7 @@ I'm a Computer Science student at Insper, interested in software development, da
 My projects include a web tool for teaching Assembly, data analysis, AI and robotics studies, and software developed in academic teams. I enjoy understanding how systems work and turning that understanding into useful tools.
 
 ### Technologies
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ·
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ·
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ·
 ![C](https://img.shields.io/badge/C-525252?style=for-the-badge) ·
 ![Go](https://img.shields.io/badge/Go-525252?style=for-the-badge) ·
